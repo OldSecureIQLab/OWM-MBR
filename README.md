@@ -8,6 +8,7 @@ Paste code from main.cpp to your file.
 Select your project > right mouse button > Properties.
 Select Release and x64 from the top (In the window with the code, do the same).
 Press Ctrl + B, and open the folder with this project. You will have an executable .exe file! Congratulations! */
+
 /* Hebrew manual
 
 Install Visual Studio 2019 And Windows Development with C++.
